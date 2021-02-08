@@ -1,4 +1,4 @@
-[BakejoonAlgorigthm10871]:(https://www.acmicpc.net/problem/10871)
+[BakejoonAlgorigthm10871]:(https://www.acmicpc.net/problem/10871 "10871Problem")
 
 
 문제 
